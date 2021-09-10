@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://BloodMount.github.io/">Anirudh Gudi</a></h1>
+<h1 align="center">Hi, I'm Anirudh Gudi</h1>
 <h3 align="center">Learning to code is a fantastic oppurtunity equalizer-and I'm gonna rock it.</h3></br>
 
 
